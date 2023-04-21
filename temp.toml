@@ -1,0 +1,103 @@
+[function_type]
+__name__ = 'mathematics'
+
+    [function_type.__code__.code_type]
+    co_argcount = 2
+    co_cellvars = []
+    co_code = [
+        116,
+        0,
+        124,
+        0,
+        124,
+        1,
+        23,
+        0,
+        131,
+        1,
+        1,
+        0,
+        116,
+        0,
+        124,
+        0,
+        124,
+        1,
+        24,
+        0,
+        131,
+        1,
+        1,
+        0,
+        116,
+        0,
+        124,
+        0,
+        124,
+        1,
+        27,
+        0,
+        131,
+        1,
+        1,
+        0,
+        116,
+        0,
+        124,
+        0,
+        124,
+        1,
+        20,
+        0,
+        131,
+        1,
+        1,
+        0,
+        116,
+        0,
+        116,
+        1,
+        160,
+        2,
+        116,
+        3,
+        100,
+        1,
+        25,
+        0,
+        161,
+        1,
+        131,
+        1,
+        1,
+        0,
+        100,
+        0,
+        83,
+        0
+    ]
+    co_consts = [ 'None', '-5' ]
+    co_filename = 'C:/PythonProjects/Serializer3/tests/test_things.py'
+    co_firstlineno = 19
+    co_flags = 67
+    co_freevars = []
+    co_kwonlyargcount = 0
+    co_lnotab = [ 0, 1, 12, 1, 12, 1, 12, 1, 12, 1 ]
+    co_name = 'mathematics'
+    co_names = [ 'print', 'math', 'sin', 'my_dict' ]
+    co_nlocals = 2
+    co_posonlyargcount = 0
+    co_stacksize = 5
+    co_varnames = [ 'a', 'b' ]
+
+    [function_type.__globals__]
+    math = 'math'
+    random = 'random'
+
+        [function_type.__globals__.my_dict]
+        -5 = 228
+        fd = [ [ 1, [ 0, 228 ], 'pamagiti', [] ] ]
+        'Халява' = 'прийди'
+
+            [function_type.__globals__.my_dict.1]
+            2 = 'aaaaaaaaaaa'

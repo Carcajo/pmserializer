@@ -1,0 +1,319 @@
+instance_type:
+  __class__:
+    class_type:
+      __bases__:
+      - class_type:
+          __bases__:
+          - class_type:
+              __bases__: []
+              __code__: {}
+              __name__: object
+          __code__:
+            __doc__: None
+            __init__:
+              function_type:
+                __code__:
+                  code_type:
+                    co_argcount: 2
+                    co_cellvars: []
+                    co_code:
+                    - 124
+                    - 1
+                    - 124
+                    - 0
+                    - 95
+                    - 0
+                    - 100
+                    - 0
+                    - 83
+                    - 0
+                    co_consts:
+                    - None
+                    co_filename: C:/PythonProjects/Serializer3/tests/test_things.py
+                    co_firstlineno: 37
+                    co_flags: 67
+                    co_freevars: []
+                    co_kwonlyargcount: 0
+                    co_lnotab:
+                    - 0
+                    - 1
+                    co_name: __init__
+                    co_names:
+                    - second_name
+                    co_nlocals: 2
+                    co_posonlyargcount: 0
+                    co_stacksize: 2
+                    co_varnames:
+                    - self
+                    - second_name
+                __globals__:
+                  __builtins__: builtins
+                  math: math
+                  random: random
+                __name__: __init__
+          __name__: Dad
+      __code__:
+        __doc__: None
+        __init__:
+          function_type:
+            __code__:
+              code_type:
+                co_argcount: 4
+                co_cellvars: []
+                co_code:
+                - 116
+                - 0
+                - 160
+                - 1
+                - 124
+                - 0
+                - 124
+                - 2
+                - 161
+                - 2
+                - 1
+                - 0
+                - 124
+                - 1
+                - 124
+                - 0
+                - 95
+                - 2
+                - 124
+                - 3
+                - 124
+                - 0
+                - 95
+                - 3
+                - 100
+                - 0
+                - 83
+                - 0
+                co_consts:
+                - None
+                co_filename: C:/PythonProjects/Serializer3/tests/test_things.py
+                co_firstlineno: 51
+                co_flags: 67
+                co_freevars: []
+                co_kwonlyargcount: 0
+                co_lnotab:
+                - 0
+                - 1
+                - 12
+                - 1
+                - 6
+                - 1
+                co_name: __init__
+                co_names:
+                - Dad
+                - __init__
+                - first_name
+                - gender
+                co_nlocals: 4
+                co_posonlyargcount: 0
+                co_stacksize: 4
+                co_varnames:
+                - self
+                - first_name
+                - second_name
+                - gender
+            __globals__:
+              Dad:
+                class_type:
+                  __bases__:
+                  - class_type:
+                      __bases__: []
+                      __code__: {}
+                      __name__: object
+                  __code__:
+                    __doc__: None
+                    __init__:
+                      function_type:
+                        __code__:
+                          code_type:
+                            co_argcount: 2
+                            co_cellvars: []
+                            co_code:
+                            - 124
+                            - 1
+                            - 124
+                            - 0
+                            - 95
+                            - 0
+                            - 100
+                            - 0
+                            - 83
+                            - 0
+                            co_consts:
+                            - None
+                            co_filename: C:/PythonProjects/Serializer3/tests/test_things.py
+                            co_firstlineno: 37
+                            co_flags: 67
+                            co_freevars: []
+                            co_kwonlyargcount: 0
+                            co_lnotab:
+                            - 0
+                            - 1
+                            co_name: __init__
+                            co_names:
+                            - second_name
+                            co_nlocals: 2
+                            co_posonlyargcount: 0
+                            co_stacksize: 2
+                            co_varnames:
+                            - self
+                            - second_name
+                        __globals__:
+                          __builtins__: builtins
+                          math: math
+                          random: random
+                        __name__: __init__
+                  __name__: Dad
+              __builtins__: builtins
+              math: math
+              random: random
+            __name__: __init__
+        get_full_name:
+          function_type:
+            __code__:
+              code_type:
+                co_argcount: 1
+                co_cellvars: []
+                co_code:
+                - 124
+                - 0
+                - 106
+                - 0
+                - 124
+                - 0
+                - 106
+                - 1
+                - 103
+                - 2
+                - 83
+                - 0
+                co_consts:
+                - None
+                co_filename: C:/PythonProjects/Serializer3/tests/test_things.py
+                co_firstlineno: 56
+                co_flags: 67
+                co_freevars: []
+                co_kwonlyargcount: 0
+                co_lnotab:
+                - 0
+                - 1
+                co_name: get_full_name
+                co_names:
+                - first_name
+                - second_name
+                co_nlocals: 1
+                co_posonlyargcount: 0
+                co_stacksize: 2
+                co_varnames:
+                - self
+            __globals__:
+              __builtins__: builtins
+              math: math
+              random: random
+            __name__: get_full_name
+      __name__: Baby
+  __dict__:
+    first_name: Maxim
+    gender:
+      instance_type:
+        __class__:
+          class_type:
+            __bases__:
+            - class_type:
+                __bases__: []
+                __code__: {}
+                __name__: object
+            __code__:
+              __doc__: None
+              __init__:
+                function_type:
+                  __code__:
+                    code_type:
+                      co_argcount: 1
+                      co_cellvars: []
+                      co_code:
+                      - 116
+                      - 0
+                      - 160
+                      - 1
+                      - 100
+                      - 1
+                      - 100
+                      - 2
+                      - 100
+                      - 3
+                      - 161
+                      - 3
+                      - 125
+                      - 1
+                      - 124
+                      - 1
+                      - 100
+                      - 1
+                      - 107
+                      - 2
+                      - 114
+                      - 30
+                      - 100
+                      - 4
+                      - 124
+                      - 0
+                      - 95
+                      - 2
+                      - 110
+                      - 6
+                      - 100
+                      - 5
+                      - 124
+                      - 0
+                      - 95
+                      - 2
+                      - 100
+                      - 0
+                      - 83
+                      - 0
+                      co_consts:
+                      - None
+                      - 0
+                      - 2
+                      - 1
+                      - Men
+                      - Women
+                      co_filename: C:/PythonProjects/Serializer3/tests/test_things.py
+                      co_firstlineno: 42
+                      co_flags: 67
+                      co_freevars: []
+                      co_kwonlyargcount: 0
+                      co_lnotab:
+                      - 0
+                      - 1
+                      - 14
+                      - 1
+                      - 8
+                      - 1
+                      - 8
+                      - 2
+                      co_name: __init__
+                      co_names:
+                      - random
+                      - randrange
+                      - sex
+                      co_nlocals: 2
+                      co_posonlyargcount: 0
+                      co_stacksize: 5
+                      co_varnames:
+                      - self
+                      - temp
+                  __globals__:
+                    math: math
+                    random: random
+                  __name__: __init__
+            __name__: Gender
+        __dict__:
+          sex: Women
+    second_name: Puhov

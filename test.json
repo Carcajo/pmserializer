@@ -1,0 +1,47 @@
+{
+  "function_type": {
+    "__globals__": {},
+    "__name__": "f",
+    "__code__": {
+      "code_type": {
+        "co_argcount": 0,
+        "co_posonlyargcount": 0,
+        "co_kwonlyargcount": 0,
+        "co_nlocals": 0,
+        "co_stacksize": 2,
+        "co_flags": 67,
+        "co_code": [
+          116,
+          0,
+          100,
+          1,
+          131,
+          1,
+          1,
+          0,
+          100,
+          0,
+          83,
+          0
+        ],
+        "co_consts": [
+          null,
+          5
+        ],
+        "co_names": [
+          "print"
+        ],
+        "co_varnames": [],
+        "co_filename": "C:/PythonProjects/Serializer3/main.py",
+        "co_name": "f",
+        "co_firstlineno": 9,
+        "co_lnotab": [
+          0,
+          1
+        ],
+        "co_freevars": [],
+        "co_cellvars": []
+      }
+    }
+  }
+}
