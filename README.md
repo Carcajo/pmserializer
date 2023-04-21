@@ -1,5 +1,5 @@
 <h2>
-  Лабораторная работа 2
+  Lab work 3
 </h2>
   <p>During the laboratory work, a serializer was implemented. The resulting serializer correctly serializes (saves/packs) and deserializes (restores/unpacks) the stored information.<p>
   <p>The program code contains a factory method create_serializer(), which generates various types of serializers. It is possible to easily add a new serializer without changing the architecture of the application.<p>
