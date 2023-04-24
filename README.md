@@ -7,7 +7,7 @@
 Each of the serializers implements the following methods:
 <ul>
  <li>dump(obj, fp) - serializes Python objects to file</li>
- <lidump(obj, fp) - serializes Python objects to file</li>
+ <li>dump(obj, fp) - serializes Python objects to file</li>
  <li>lload(fp) - deserializes Python objects from file </li>
  <li>load(fp) - deserializes Python objects from file </li>
 </ul>
